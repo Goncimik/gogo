@@ -1,5 +1,6 @@
 
  Merhaba! 👩‍🎓
+ 
  Ben gogo, PhD öğrencisi 🎓. 
  
  📊 Python, Veri Analizi, Makine Öğrenmesi, Derin Öğrenme, QML 
